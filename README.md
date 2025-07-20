@@ -1,1 +1,1 @@
-# train-simulator
+# warehouse=sim
